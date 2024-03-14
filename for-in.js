@@ -5,5 +5,5 @@ const wes = {
 };
 
 for (const prop in wes) {
-  console.log(prop);
+  console.log(prop); // Percorre o objeto pegando a sua chave, nao o valor
 }

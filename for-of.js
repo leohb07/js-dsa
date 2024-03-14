@@ -2,6 +2,8 @@
 
 const test = "Leonardo";
 
+// Mais utilizado para percorrer arrays
+
 for (const letter of test) {
   console.log(letter);
 }

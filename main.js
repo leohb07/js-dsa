@@ -32,7 +32,7 @@ if (month === 1) {
 }
 
 // switch
-// Usar switch caso for verificar a mesma variaveis diversas vezes
+// Usar switch caso for verificar a mesma variavel diversas vezes
 
 // Case -> determina se o valor de switch e igual ao valor da clausula case
 // Break -> ele impede que a instrucao switch execute o restante da instrucao
@@ -66,7 +66,7 @@ while (i < 10) {
   i++;
 }
 
-// do while -> apenas executa primeiro e depois verifica a condicao
+// do while -> executa primeiro e depois verifica a condicao
 
 let x = 0;
 do {
